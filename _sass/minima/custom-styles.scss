@@ -1,0 +1,34 @@
+.site-header {
+  border-top: none;
+}
+
+.social-media-list li a {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  aspect-ratio: 1;
+  padding: 0px;
+  width: 40px;
+}
+
+.feed-subscribe a {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0px;
+  height: 20px;
+}
+
+.svg-icon.orange {
+  padding-top: 0;
+  padding-bottom: 0;
+  padding-left: 0;
+  width: 16px;
+  height: 16px;
+}
+
+.svg-icon.grey {
+  scale: 2;
+  width: 16px;
+  height: 16px;
+}
