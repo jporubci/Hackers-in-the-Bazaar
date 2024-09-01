@@ -24,8 +24,8 @@ author:
   email: jporubci@nd.edu
 description: >-
   Blog for CSE 40842 Hackers in the Bazaar.
-baseurl: ""
-url: "https://jporubci.github.io/Hackers-in-the-Bazaar"
+baseurl: "/Hackers-in-the-Bazaar"
+url: "https://jporubci.github.io"
 
 # Build settings
 theme: minima
