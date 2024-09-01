@@ -25,7 +25,7 @@ author:
 description: >-
   Blog for CSE 40842 Hackers in the Bazaar.
 baseurl: ""
-url: "https://www.jporubci.github.io/Hackers-in-the-Bazaar"
+url: "https://jporubci.github.io/Hackers-in-the-Bazaar"
 
 # Build settings
 theme: minima
